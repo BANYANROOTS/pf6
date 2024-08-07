@@ -1,0 +1,267 @@
+/* 타이틀영역 */
+div#title{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+div#title div.Floral{
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+div#title div.Floral h1{
+  margin: 50px;
+}
+div#title div.Floral p{
+  line-height: 1.5;
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 50px;
+}
+div#title div.wrap{
+
+}
+div#title div.wrap ul{
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+div#title div.wrap ul li{
+  flex: 1 1 calc(50% - 40px);
+  margin: 20px;
+  box-sizing: border-box;
+}
+div#title div.wrap ul li:nth-child(1){
+  
+  
+}
+div#title div.wrap ul li:nth-child(2){
+  
+  
+}
+div#title div.wrap ul li a{
+
+}
+div#title div.wrap ul li a img{
+  width: 100%;
+  height: auto;
+}
+div#title div.wrap ul li a p.yellow{
+  font-style: normal;
+  text-align: left;
+  line-height: 2;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+div#title div.wrap ul li a span{
+  
+  margin-left: 10px;
+}
+/* 4줄영역 */
+#linefour{
+
+  max-width: 1200px;
+  margin: 0 auto;
+}
+#linefour div.wrap{
+
+}
+#linefour div.wrap ul{
+  flex-wrap: wrap;
+  justify-content: center;
+  display: flex;
+ }
+#linefour div.wrap ul li{
+  flex: 1 1 calc(25% - 40px);
+  margin: 20px;
+  box-sizing: border-box;
+}
+#linefour div.wrap ul li a{
+
+}
+#linefour div.wrap ul li a img{
+  width: 100%;
+  height: auto;
+}
+#linefour div.wrap ul li a p{
+
+  margin: 20px 0 40px 10px;
+}
+#linefour div.wrap ul li a span{
+
+  margin-left: 10px;
+}
+
+
+/* 두줄라인 */
+
+#linetwo{
+
+  max-width: 1200px;
+  margin: 0 auto;
+}
+#linetwo div.wrap{
+
+}
+#linetwo div.wrap ul{
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+#linetwo div.wrap ul li{
+  flex: 1 1 calc(25% - 40px);
+  margin: 20px;
+  box-sizing: border-box;
+
+}
+#linetwo div.wrap ul li:nth-child(1){
+  
+  
+}
+#linetwo div.wrap ul li:nth-child(2){
+  
+  
+}
+#linetwo div.wrap ul li a{
+
+}
+#linetwo div.wrap ul li a img{
+  width: 100%;
+  height: auto;
+}
+#linetwo div.wrap ul li a p{
+  font-style: normal;
+  text-align: left;
+  line-height: 2;
+  margin: 20px 0 50px 10px;
+}
+#linetwo div.wrap ul li a span{
+  
+  margin-left: 10px;
+}
+/* 한줄영역 */
+#oneline{
+padding-bottom: 100px;
+max-width: 1200px;
+margin: 0 auto;
+}
+#oneline div.wrap{
+
+}
+#oneline div.wrap ul{
+  flex-wrap: wrap;
+  justify-content: center;
+  display: flex;
+
+}
+#oneline div.wrap ul li{
+  flex: 1 1 calc(25% - 40px);
+  margin: 20px;
+  box-sizing: border-box;
+
+}
+#oneline div.wrap ul li:nth-child(1){
+  
+  
+}
+#oneline div.wrap ul li:nth-child(2){
+  
+  
+}
+#oneline div.wrap ul li a{
+
+}
+#oneline div.wrap ul li a img{
+   width: 100%;
+  height: auto;
+}
+#oneline div.wrap ul li a p{
+  font-style: normal;
+  text-align: left;
+  line-height: 2;
+  margin: 20px 0 50px 10px;
+}
+#oneline div.wrap ul li a span{
+  
+  margin-left: 10px;
+}
+/* 4줄 라인 */
+#linefour_2{
+
+  max-width: 1200px;
+  margin: 0 auto;
+}
+#linefour_2 div.wrap{
+
+}
+#linefour_2 div.wrap ul{
+flex-wrap: wrap;
+justify-content: center;
+display: flex;
+}
+#linefour_2 div.wrap ul li{
+
+  flex: 1 1 calc(25% - 40px);
+  margin: 20px;
+  box-sizing: border-box;
+}
+#linefour_2 div.wrap ul li a{
+
+}
+#linefour_2 div.wrap ul li a img{
+  width: 100%;
+  height: auto;
+}
+#linefour_2 div.wrap ul li a p{
+
+  margin: 20px 0 40px 10px;
+}
+#linefour_2 div.wrap ul li a span{
+
+  margin-left: 10px;
+}
+/* 두줄라인 */
+
+#linetwo_2{
+
+  max-width: 1200px;
+  margin: 0 auto;
+}
+#linetwo_2 div.wrap{
+
+}
+#linetwo_2 div.wrap ul{
+
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#linetwo_2 div.wrap ul li{
+
+  flex: 1 1 calc(25% - 40px);
+  margin: 20px;
+  box-sizing: border-box;
+}
+#linetwo_2 div.wrap ul li:nth-child(1){
+  
+  
+}
+#linetwo_2 div.wrap ul li:nth-child(2){
+  
+  
+}
+#linetwo_2 div.wrap ul li a{
+
+}
+#linetwo_2 div.wrap ul li a img{
+  
+  width: 100%;
+  height: auto;
+}
+#linetwo_2 div.wrap ul li a p{
+  font-style: normal;
+  text-align: left;
+  line-height: 2;
+  margin: 20px 0 50px 10px;
+}
+#linetwo_2 div.wrap ul li a span{
+  margin-left: 10px;
+}

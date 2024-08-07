@@ -1,0 +1,62 @@
+@media screen and (max-width:768px){
+  /* 헤더  */
+  header div.flex{
+    padding-top: 40px;
+  }
+  header div.flex h5{
+    transform: translateX(20px) translateY(-20px);
+  }
+  header div.flex ul{
+    display: none;
+  }
+  div#title div.wrap ul{
+    flex-direction: column;
+  }
+
+  div#title div.Floral h1{
+    font-size:calc(50px*0.7);
+  }
+    div#title div.Floral p{
+      
+  font-size: calc(24px*0.7);
+  padding: 0 20px;
+  }
+  div#title div.wrap ul li a img{
+    height: 410px;
+  }
+  #linefour div.wrap{
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+  }
+  #linetwo div.wrap ul{
+    flex-direction: column;
+  }
+  #linetwo_2 div.wrap ul{
+    flex-direction: column;
+  }
+
+  #linefour div.wrap ul{
+  
+  }
+  #linefour div.wrap ul li{
+  flex: 1 1 25%;
+  }
+  #linefour_2 div.wrap ul li{
+  flex: 1 1 25%;
+  }
+  footer div.wrap{
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  footer div.wrap div.flex{
+    padding: 40px 0;
+  }
+  footer div.wrap div.flex h4{
+     
+  }
+  footer div.wrap div.flex ul li{
+    margin-left: calc(40px*0.7);
+  }
+ 
+}

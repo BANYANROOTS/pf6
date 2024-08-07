@@ -1,0 +1,43 @@
+footer{
+
+}
+footer div.wrap{
+max-width: 1200px;
+}
+footer div.wrap div.flex{
+justify-content: space-between;
+border-top: 1px solid;
+padding: 70px 0;
+}
+footer div.wrap div.flex h4{
+
+}
+footer div.wrap div.flex ul{
+
+}
+footer div.wrap div.flex ul li{
+margin-left: 50px;
+}
+footer div.wrap div.flex ul li a.block{
+  font-size: 0;
+  width: 20px;
+  height: 20px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+footer div.wrap div.flex ul li:nth-child(1) a.block{
+  background-image: url(../img/instagram.svg);
+}
+footer div.wrap div.flex ul li:nth-child(2) a.block{
+  background-image: url(../img/youtube.svg);
+}
+footer div.wrap div.flex ul li:nth-child(3) a.block{
+  background-image: url(../img/facebook.svg);
+}
+footer div.wrap p{
+    
+}
+footer div.wrap p a.yellow{
+  border-bottom: 1px solid #d4a758;
+}
